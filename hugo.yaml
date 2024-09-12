@@ -62,10 +62,7 @@ languages:
                       description: |
                           Read about the code of conduct for our event.
                           This section outlines the expectations for participant behavior and event policies.
-languages:
-    _merge: deep
-    en:
-        disabled: false
+
         params:
             # Open Graph / X (Twitter) Cards
             description: |
