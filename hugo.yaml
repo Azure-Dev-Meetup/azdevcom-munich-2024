@@ -1,107 +1,47 @@
 theme: event
 
 defaultContentLanguage: en
-# languages:
-#     _merge: deep
-#     en:
-#         disabled: false
-#         menus:
-#             main:
-#                 - identifier: about
-#                   pageRef: /about
-#                   weight: 10
-#                 - identifier: sessions
-#                   pageRef: /sessions
-#                   weight: 20
-#                 - identifier: speakers
-#                   pageRef: /speakers
-#                   weight: 30
-#                 - identifier: location
-#                   pageRef: /location
-#                   weight: 40
-#                 - identifier: sponsors
-#                   pageRef: /sponsors
-#                   weight: 50
-#                 - identifier: code_of_conduct
-#                   pageRef: /code-of-conduct
-#                   weight: 60
-#             footer:
-#                 - identifier: imprint
-#                   pageRef: /imprint
-#                   weight: 10
-#                 - identifier: privacy
-#                   pageRef: /privacy-policy
-#                   weight: 20
-#             secondary:
-#                 - identifier: about
-#                   pageRef: /about
-#                   weight: 10
-#                   params:
-#                       description: |
-#                           Learn more about our mission, values, and the people behind our organization.
-#                           The "About Us" page provides insights into who we are, what we do,
-#                           and why we’re passionate about our work.
-#                 - identifier: speakers
-#                   pageRef: /speakers
-#                   weight: 30
-#                   params:
-#                       description: |
-#                           Meet our distinguished speakers who will be sharing their expertise.
-#                           Learn more about their backgrounds and what they will discuss.
-#                 - identifier: location
-#                   pageRef: /location
-#                   weight: 40
-#                   params:
-#                       description: |
-#                           Find out where the event will take place.
-#                           This section provides details on the venue, directions, and nearby accommodations.
-#                 - identifier: code_of_conduct
-#                   pageRef: /code-of-conduct
-#                   weight: 60
-#                   params:
-#                       description: |
-#                           Read about the code of conduct for our event.
-#                           This section outlines the expectations for participant behavior and event policies.
-#         params:
-#             # Open Graph / X (Twitter) Cards
-#             description: |
-#                 A demo website to showcase the features of the "Event" theme for the
-#                 static website generator HUGO.
-#             themes:
-#                 event:
-#                     slogan: Not a real conference - this is just a demo!
-#                     location: Pforzheim, Germany
-#                     description: |
-#                         This is a demo website to showcase the features of the __Event__ theme
-#                         for the static website generator [Hugo](https://gohugo.io). You can
-#                         find the source code of this website on
-#                         [GitHub](https://github.com/medialesson/hugo-theme-event-demo). The theme
-#                         can fetch data of any event from [Sessionize](https://sessionize.com) and
-#                         automatically generates a schedule, a speaker list, and more. It also 
-#                         integrates well with [Eventbrite](https://www.eventbrite.com) to sell tickets.
-#                     directions: |
-#                         #### By Public Transportation
-#                         Take the number 25 bus from downtown. [Click here for the bus
-#                         schedule](https://www.kvv.de/en/plan-trip/timetables.html).
+languages:
+    _merge: deep
+    en:
+        disabled: false
+        params:
+            # Open Graph / X (Twitter) Cards
+            description: |
+                Azure Developer Community Day is a full-day free event hosted at Microsoft Deutschland GmbH
+                for developers and IT pros working with Microsoft's cloud platform.
+            themes:
+                event:
+                    slogan: 1 Day, 4 Tracks, and more than 30 Experts
+                    location: Munich, Germany
+                    description: |
+                        Azure Developer Community Day is a conference designed for developers, particularly 
+                        those working with Microsoft Azure, Power Platform, or Cloud Native technologies. 
+                        It’s also ideal for anyone looking to get started with these platforms. The event 
+                        bridges the gap between IT professional conferences and hands-on training workshops, 
+                        fostering a collaborative exchange among developers on the topics they encounter daily.
 
-#                         #### By Car:
-#                         From Downtown: Take Main Street north for 2 miles and turn right on
-#                         Elm Street. [Get
-#                         directions](https://www.kvv.de/en/plan-trip/timetables.html).
-#                     aboutUs: |
-#                         ### Mission
-#                         We help companies and organizations to digital transform their business, products and processes through consulting,
-#                         strategy, design, software development and training using cutting edge technology.
+                        We offer a community-driven platform that emphasizes meaningful experiences, accessibility, 
+                        and diversity. Best of all, Azure Developer Community Day is a free event open to everyone. 
+                        This year, thanks to the support of other developer communities, Meetup groups, and our sponsors, 
+                        we’re excited to host a hybrid event—bringing together both in-person and virtual attendees.
+                    directions: |
+                        #### By Public Transportation
+                        U6, stop Nordfriedhof and approx. 650m walk
+                        Tram 23, stop Anni-Albers Straße and approx. 650m walk
 
-#                         ### Established
-#                         - **2002** - Founded
-
-#                         ### Our Team
-#                         - **25+** Employees
-#                         - **5** Nationalities
-
-#                         ### Additional Info
-#                         - We bring together diverse expertise and innovation.
+                        #### By Car:
+                        A9, exit München Schwabing
+                        **(There is no parking available at the event location)**
+                    aboutUs: |
+                        ### Event Team 2024
+                        We are happy to have this strong team for the event this year. Besides their role as speakers, 
+                        they are involved in the organization and are available as moderators, speaker coaches or as 
+                        contact for the speakers.
+                        
+                        #CommunityRocks 
+                        
+                        Thank you for the support in the preparation and on site goes to this great team!
 
 #     de:
 #         disabled: false
