@@ -1,6 +1,6 @@
 theme: event
 
-defaultContentLanguage: de
+defaultContentLanguage: en
 # languages:
 #     _merge: deep
 #     en:
@@ -211,7 +211,7 @@ defaultContentLanguage: de
 params:
     # Open Graph / X (Twitter) Cards
     images:
-        - logos/medicon-512.jpg
+        - logos/image.png
     themes:
         event:
             sessionizeId: ijfchepr
@@ -238,8 +238,8 @@ params:
                 linkedinUrl: https://www.linkedin.com/showcase/azdevcom
             images:
                 logo: logos/image.png
-                titleBackground: images/pexels-caleboquendo-3023317.webp
-                location: images/habermehlstr.webp
+                titleBackground: images/background.png
+                location: images/microsoft.png
             sponsors:
                 - logo: logos/medialesson-logo.svg
                   url: https://www.media-lesson.com/
@@ -259,6 +259,6 @@ params:
             #     - '729579'
             colors:
                 primaryLighter: '#5CB1E8'
-                primary: '#0d81be'
-                primaryDarker: '#143e8b'
+                primary: '#d3006a'
+                primaryDarker: '#6b1fa7'
                 track: '#15B8CA'
