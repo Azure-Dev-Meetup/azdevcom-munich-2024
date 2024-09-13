@@ -169,10 +169,10 @@ languages:
                 Website-Generator HUGO vorstellt.
             themes:
                 event:
-                    slogan: Keine echte Konferenz - nur eine Demo!
-                    location: Pforzheim
+                    slogan: 1 Tag, 4 Tracks, mehr als 30 Experten
+                    location: München
                     description: |
-                        Azure Developer Community Day ist eine Konferenz für Entwickler, insbesondere für diejenigen, 
+                        Der Azure Developer Community Day ist eine Konferenz für Entwickler, insbesondere für diejenigen, 
                         die mit Microsoft Azure, der Power Platform oder Cloud Native-Technologien arbeiten. 
                         Sie richtet sich auch an alle, die in diese Bereiche einsteigen möchten. 
                         
