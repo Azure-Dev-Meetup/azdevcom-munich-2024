@@ -82,7 +82,7 @@ languages:
                         We offer a community-driven platform that emphasizes meaningful experiences, accessibility, 
                         and diversity. Best of all, Azure Developer Community Day is a free event open to everyone. 
                         This year, thanks to the support of other developer communities, Meetup groups, and our sponsors, 
-                        we’re excited to host a hybrid event—bringing together both in-person and virtual attendees.
+                        we’re excited to host this in-person event at Microsoft Deutschland.
                     directions: |
                         #### By Public Transportation
                         U6, stop Nordfriedhof and approx. 650m walk
@@ -182,8 +182,7 @@ languages:
                         Wir bieten eine community-gesteuerte Plattform, die auf bereichernde Erfahrungen, Zugänglichkeit 
                         und Vielfalt setzt. Das Beste daran: Azure Developer Community Day ist ein kostenloses Event, das 
                         für alle offen ist. In diesem Jahr freuen wir uns, dank der Unterstützung anderer Entwickler-Communities, 
-                        Meetup-Gruppen und unserer Sponsoren, ein hybrides Event anzubieten – 
-                        mit einer Kombination aus Präsenz- und virtueller Teilnahme.
+                        Meetup-Gruppen und unserer Sponsoren, ein Vor-Ort-Event bei Microsoft Deutschland anzubieten zu können.
                     directions: |
                         #### Mit den Öffentlichen:
                         U6, Haltestelle Nordfriedhof und ca. 650m zu Fuß
@@ -243,11 +242,9 @@ params:
             #     - logo: logos/medialesson-logo.svg
             #       url: https://www.media-lesson.com/
             #       name: 'Medialesson GmbH'
-            # organizers:
-            #     - '00000000-0000-0000-0000-000000000000'
-            #     - '00000000-0000-0000-0000-000000000001'
-            #     - '00000000-0000-0000-0000-000000000004'
-            #     - '00000000-0000-0000-0000-000000000002'
+            organizers:
+                - 'bc9e5e5b-6188-4cad-85a1-cff049112520'
+                - 'a5b09459-7526-4459-830d-7fb2bcdd9048'
             # featuredSessions:
             #     - '729572'
             #     - '729576'
