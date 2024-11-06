@@ -235,9 +235,15 @@ params:
                 titleBackground: images/background.png
                 location: images/microsoft.png
             sponsors:
+                - logo: logos/microsoft.png
+                  url: https://www.microsoft.com/
+                  name: 'Microsoft Deutschland GmbH'
                 - logo: logos/medialesson-logo.svg
                   url: https://www.media-lesson.com/
                   name: 'Medialesson GmbH'
+                - logo: logos/CGI_logo.svg
+                  url: https://www.cgi.com/
+                  name: 'CGI Deutschland'
             # partners:
             #     - logo: logos/medialesson-logo.svg
             #       url: https://www.media-lesson.com/
