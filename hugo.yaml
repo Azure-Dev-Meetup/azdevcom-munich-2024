@@ -256,7 +256,7 @@ params:
             #     - '729576'
             #     - '729579'
             colors:
-                primaryLighter: '#5CB1E8'
+                primaryLighter: '#f50a80'
                 primary: '#d3006a'
                 primaryDarker: '#6b1fa7'
                 track: '#15B8CA'
