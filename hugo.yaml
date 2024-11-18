@@ -253,10 +253,10 @@ params:
             organizers:
                 - 'bc9e5e5b-6188-4cad-85a1-cff049112520'
                 - 'a5b09459-7526-4459-830d-7fb2bcdd9048'
-            # featuredSessions:
-            #     - '729572'
-            #     - '729576'
-            #     - '729579'
+            featuredSessions:
+                - '774876'
+                - '729224'
+                - '730804'
             colors:
                 primaryLighter: '#f50a80'
                 primary: '#d3006a'
