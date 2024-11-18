@@ -257,6 +257,7 @@ params:
                 - '774876'
                 - '729224'
                 - '730804'
+                - '702520'
             colors:
                 primaryLighter: '#f50a80'
                 primary: '#d3006a'
