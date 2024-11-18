@@ -1,14 +1,15 @@
 # Impressum
 
-*Angaben gemäß § 5 TMG*
-Thomas Pentenrieder
-Kastanienweg 3a
-82319 Starnberg
+*Angaben gemäß § 5 TMG* \
+Thomas Pentenrieder \
+Kastanienweg 3a \
+82319 Starnberg \
 E-Mail: meetup@azuredev.org
 
-Redaktionell verantwortlich
-Thomas Pentenrieder
-Kastanienweg 3a
+Redaktionell verantwortlich \
+Thomas Pentenrieder \
+Kastanienweg 3a \
 82319 Starnberg
+
 Quelle:
 https://www.e-recht24.de
