@@ -1,15 +1,14 @@
 # Imprint
 
-**+++ THIS IS JUST A SAMPLE +++**
+*Angaben gemäß § 5 TMG*
+Thomas Pentenrieder
+Kastanienweg 3a
+82319 Starnberg
+E-Mail: meetup@azuredev.org
 
-Disclosures according to § 5 TMG
-
-Max Muster  
-Musterweg  
-12345 Musterstadt
-
-Editorially responsible
-
-Max Muster  
-Musterweg  
-12345 Musterstadt
+Redaktionell verantwortlich
+Thomas Pentenrieder
+Kastanienweg 3a
+82319 Starnberg
+Quelle:
+https://www.e-recht24.de

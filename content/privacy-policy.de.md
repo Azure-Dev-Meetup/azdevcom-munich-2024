@@ -1,6 +1,5 @@
 # Datenschutz
 
-**+++ DIESE SEITE IST NUR EIN MUSTER +++**
 
 **I. Informationen über die Verarbeitung Ihrer Daten gemäß Art. 13 der Datenschutz-Grundverordnung (DS-GVO)**
 
@@ -8,15 +7,14 @@
 
 Verantwortlich für diese Website ist
 
-\[Name, Postadresse, E-Mail-Adresse des Verantwortlichen\].
+Thomas Pentenrieder
+Kastanienweg 3a
+82319 Starnberg
 
 Den Datenschutzbeauftragten erreichen Sie per E-Mail unter
 
-\[E-Mail-Adresse des Datenschutzbeauftragten\]
+meetup@azuredev.org
 
-oder über die Adresse
-
-\[ggf. auch die Postadresse des Datenschutzbeauftragten\].
 
 ### **2\. Daten, die für die Bereitstellung der Website und die Erstellung der Protokolldateien verarbeitet werden**
 
