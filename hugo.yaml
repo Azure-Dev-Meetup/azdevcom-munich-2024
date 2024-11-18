@@ -165,8 +165,8 @@ languages:
         params:
             # Open Graph / X (Twitter) Cards
             description: |
-                Eine Demo-Website die das Thema "Event" für den statischen
-                Website-Generator HUGO vorstellt.
+                Der Azure Developer Community Day ist eine ganztägige kostenlose Veranstaltung, die bei der Microsoft Deutschland GmbH stattfindet
+                und sich an Entwickler und IT-Profis richtet, die mit der Cloud-Plattform von Microsoft arbeiten.
             themes:
                 event:
                     slogan: 1 Tag, 4 Tracks, mehr als 30 Experten
@@ -231,6 +231,7 @@ params:
             socialLinks:
                 xUrl: https://x.com/azdevcom
                 linkedinUrl: https://www.linkedin.com/showcase/azdevcom
+            favicon: logos/image.png
             images:
                 logo: logos/image.png
                 titleBackground: images/background.png
